@@ -1,0 +1,138 @@
+@media screen and (max-width: 1200px) {
+    
+    .img-star {
+        width: 250px;
+        left:-15px;
+        top: -25spx;
+    }
+    .img-star-2 {
+        width: 300px;
+        top: -30px;
+        right: 20px;
+    }
+    .footer ul {
+        margin-top:20px ;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .card-container {
+        padding-top: 40px;
+    }
+    .img-star {
+        width: 250px;
+        left:-15px;
+        top: -25spx;
+    }
+    .img-star-2 {
+        width: 300px;
+        top: -30px;
+        right: 20px;
+    }
+    
+  }
+  @media screen and (max-width: 768px) {
+    .card-container {
+        padding-top: 50px;
+    }
+    .card-container h1 {
+        font-size: 47px;
+    }   
+    .img-star {
+        width: 180px;
+        left:-15px;
+        top: -25spx;
+    }
+    .img-star-2 {
+        width: 220px;
+        top: -30px;
+        right: 20px;
+    }
+    #name,#surname {
+        width: 300px;
+        margin-bottom: 15px;
+    }
+    #email {
+        margin: 0;
+        width: 300px;
+        margin-bottom: 20px;
+    }
+    .form-submit-button {
+        display: block;
+    }
+    .form-submit-button button {
+        
+        width: 350px;
+    }
+    .form-submit-button i {
+     
+        left: 90px;
+    }
+  }
+  @media screen and (max-width: 576px) {
+    .card-container {
+        padding: 50px 0;
+    }
+    .img-star {
+        width: 150px;
+        left:-15px;
+        top: -15px;
+    }
+    .img-star-2 {
+        width: 200px;
+        top: -30px;
+        right: 20px;
+    }
+    #name,#surname {
+        width: 350px;
+        margin-bottom: 15px;
+    }
+    #email {
+        width: 350px;
+    }
+    .form-submit-button {
+        display: block;
+    }
+    .form-submit-button button {
+        width: 350px;
+    }
+    .form-submit-button i {
+        left: 120px;
+    }
+  }
+  @media screen and (max-width:400px) {
+    .card-container {
+        padding: 50px 0;
+    }
+    .card-container h1 {
+        font-size: 44px;
+    }   
+    .card-container img {
+        margin-top: 50px;
+    }
+    .img-star {
+        width: 100px;
+        left:-15px;
+        top: -15px;
+    }
+    .img-star-2 {
+        width: 150px;
+        top: -30px;
+        right: 10px;
+    }
+    #name,#surname {
+        width: 250px;
+        margin-bottom: 15px;
+    }
+    #email {
+        width: 250px;
+    }
+    .form-submit-button {
+        display: block;
+    }
+    .form-submit-button button {
+        width: 250px;
+    }
+    .form-submit-button i {
+      left: 60px;   
+    }
+  }
